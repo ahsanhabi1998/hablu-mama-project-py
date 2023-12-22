@@ -15,6 +15,7 @@ if answer == "yes":
                         print("wow! still you are alive!") 
 else:
     print("the game closed")
+    # olllllllllllllslglkjslgj
                     
                     
                         
