@@ -16,6 +16,7 @@ if answer == "yes":
 else:
     print("the game closed")
     # olllllllllllllslglkjslgj
+    # lkjglalagjlagjldjlo oaja?
                     
                     
                         
